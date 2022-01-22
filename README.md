@@ -1,0 +1,2 @@
+# magdaboch
+pierwszy z django
